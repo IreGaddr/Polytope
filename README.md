@@ -1,6 +1,6 @@
 # Modeling Earth's Oblate Spheroid Shape
 
-This code generates a model of Earth's oblate ellipsoidal shape resulting from its rotation. It visualizes the physics described in a paper "Modeling Oblate Spheroid Earth with Convex Polytope Tautochrone Facets" (citation here).
+This code generates a model of Earth's oblate ellipsoidal shape resulting from its rotation. It visualizes the physics described in provided paper "Bridging Quantum Mechanics and General Relativity Through Tautochrone-Encoded Probability Polytopes".
 
 ## Summary
 
